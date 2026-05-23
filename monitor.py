@@ -11,7 +11,7 @@ SCHOOLS = [
 ]
 
 BOT_TOKEN = os.getenv("8626498529:AAHIeTNVUJbsjcypaZgG3ukRPFFV_gQ5XrQ")
-CHAT_ID = os.getenv("pixelinvitemagic")
+CHAT_ID = os.getenv("6798538852")
 
 def send_telegram(message):
     url = f"https://api.telegram.org/bot{BOT_TOKEN}/sendMessage"
